@@ -1,0 +1,11 @@
+name: brown-dsbook-python
+channels:
+  - default
+dependencies:
+  - python=3.9
+  - pip
+  - pandas
+  - numpy
+  - matplotlib
+  - pip:
+    - jupyter-book
